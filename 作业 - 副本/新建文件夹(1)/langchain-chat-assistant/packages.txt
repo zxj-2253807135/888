@@ -1,0 +1,8 @@
+# Streamlit Cloud 系统依赖
+# 用于 DuckDuckGo 搜索等功能
+
+# 基础工具
+curl
+wget
+
+# 如果需要更多系统依赖，请在此添加
